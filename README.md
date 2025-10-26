@@ -4,8 +4,11 @@ Slides and class resources from the "IntroToCTF" Tutorial series, which gives an
 # Content Map
 ```
 ├── 2025
-│   └── 1. Intro to VMs and Linux
-│       ├── IntroToCTF-VMs-and-Linux.pdf
+│   ├── 1. Intro to VMs and Linux
+│   │   ├── IntroToCTF-VMs-and-Linux.pdf
+│   │   └── README.md
+│   └── 2. Intro to Forensics
+│       ├── IntroToCTF-Intro-to-Forensics.pdf
 │       └── README.md
 └── README.md
 ```
