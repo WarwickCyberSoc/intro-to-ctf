@@ -7,8 +7,11 @@ Slides and class resources from the "IntroToCTF" Tutorial series, which gives an
 │   ├── 1. Intro to VMs and Linux
 │   │   ├── IntroToCTF-VMs-and-Linux.pdf
 │   │   └── README.md
-│   └── 2. Intro to Forensics
-│       ├── IntroToCTF-Intro-to-Forensics.pdf
+│   ├── 2. Intro to Forensics
+│   |   ├── IntroToCTF-Intro-to-Forensics.pdf
+│   |   └── README.md
+│   └── 4. Intro to Web
+│       ├── IntroToCTF-Intro-to-Web.pdf
 │       └── README.md
 └── README.md
 ```
