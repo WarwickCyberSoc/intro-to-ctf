@@ -8,8 +8,11 @@ Slides and class resources from the "IntroToCTF" Tutorial series, which gives an
 │   │   ├── IntroToCTF-VMs-and-Linux.pdf
 │   │   └── README.md
 │   ├── 2. Intro to Forensics
-│   |   ├── IntroToCTF-Intro-to-Forensics.pdf
-│   |   └── README.md
+│   │   ├── IntroToCTF-Intro-to-Forensics.pdf
+│   │   └── README.md
+│   ├── 3. Intro To Reverse Engineering
+│   │   ├── IntroToCTF-Reverse-Engineering.pdf
+│   │   └── README.md
 │   └── 4. Intro to Web
 │       ├── IntroToCTF-Intro-to-Web.pdf
 │       └── README.md
